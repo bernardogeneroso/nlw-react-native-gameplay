@@ -1,0 +1,4 @@
+{
+  "cSpell.ignoreWords": ["arrow", "bold", "gameplay", "parens", "rajdhani"],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
