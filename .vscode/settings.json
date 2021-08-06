@@ -1,4 +1,19 @@
 {
-  "cSpell.ignoreWords": ["arrow", "bold", "gameplay", "parens", "rajdhani"],
+  "cSpell.ignoreWords": [
+    "arrow",
+    "bar",
+    "bold",
+    "from",
+    "gameplay",
+    "height",
+    "helper",
+    "iphone",
+    "native",
+    "parens",
+    "rajdhani",
+    "react",
+    "tatus",
+    "x"
+  ],
   "typescript.tsdk": "node_modules\\typescript\\lib"
 }
